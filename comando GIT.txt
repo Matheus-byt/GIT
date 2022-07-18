@@ -3,6 +3,7 @@ ADICIONAR NO GIT
 git status
 git add .
 git status
+git remote add origin https://github.com/Matheus-byt/GIT.git
 git commit -m 'seu comentário'
 git push origin master
 
