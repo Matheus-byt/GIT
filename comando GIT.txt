@@ -1,0 +1,27 @@
+ADICIONAR NO GIT
+
+git status
+git add .
+git status
+git commit -m 'seu comentário'
+git push origin master
+
+------------------------------------------------------
+
+No final do dia sempre colocar 
+
+git add .
+git commit -m "Colocar comentário do que foi realizado no dia."
+git push --set-upstream origin masteroriig
+
+----------------------------------------------------------
+
+PUXAR DO GIT 
+
+git clone 'url'
+
+--------------------------------------------------
+
+Visual code
+
+Sempre usar o npm install em um projeto novo que puxar do github
